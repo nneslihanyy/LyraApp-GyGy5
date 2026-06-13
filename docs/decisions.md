@@ -20,3 +20,9 @@
 - Seçim: **Compose Navigation**
 
 - Son Güncelleme Tarihi: 04.06.2026
+
+## İkon 
+
+- Seçim : **material-icons-extended**
+
+- Son Güncelleme Tarihi: 13.06.2026
